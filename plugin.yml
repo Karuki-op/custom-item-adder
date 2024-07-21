@@ -1,0 +1,5 @@
+name: ResourcePackPlugin
+version: 1.0
+main: com.example.resourcepackplugin.ResourcePackPlugin
+api-version: 1.16
+description: A plugin to set a custom resource pack for players.
